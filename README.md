@@ -1,7 +1,3 @@
-Group Details:
-**ajain28 Abhash Jain
-**asrivas3 Abhishek Kumar
-
 Project Title: Given a certain function find the GRID point between 0 and 100 and Using MPI Calculate the value of the function at those grid points as well their Derivatives.
 
 Introduction: In this project a function is provided and we have to calculate its derivative using finite differential method. The value of the function and its derivative is to be calculated from its grid point which will be cut from range 1-100.
